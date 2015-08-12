@@ -34,11 +34,20 @@ unit cost: **￥1000**  automation using jenkins: **￥1000**
 	
 4. services were extraly added by any special business reqirements. **the price will be discussed ** 
 	the normal situations looks below:
+	
 	a) any components that matches the reqirements will normally make an extension on customers' needs, which means the customer normally cannot make a fully consideration on any project description, those potentail needs are found during the development.
+	
 	b)some common sense that customer hasn't realized but it really took lots of time.
+	
 	c)any services just after solution delivery, it has a limited periods.
 
 5. distributed to app store  **￥1000**  the process is quite simple but really time consuming.
 
 ##disposable app
 1. just finished pages, the developer will finish the coding as soon as posible just depends on customer's requirements.  the price will be predicted with supplied visual draft.
+
+##trivial services: costs￥50 an hour
+1. fix bug.  
+2. fix crash
+3. get rid of troubles 
+4. whatever, any coding services.
