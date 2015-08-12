@@ -40,8 +40,7 @@ unit cost: **￥1000**  automation using jenkins: **￥1000**
 	
 	b)some common sense that customer hasn't realized but it really took lots of time.
 	
-	c)any services just after solution delivery, it has a limited periods.
-
+	c) **post-sale services** (any services just after solution delivery), it has a limited periods.
 5. distributed to app store  **￥1000**  the process is quite simple but really time consuming.
 
 ##disposable app
