@@ -46,7 +46,8 @@ unit cost: **￥1000**  automation using jenkins: **￥1000**
 ##disposable app
 1. just finished pages, the developer will finish the coding as soon as posible just depends on customer's requirements.  the price will be predicted with supplied visual draft.
 
-##trivial services: costs￥50 an hour
+##trivial services: 
+###costs ￥50 an hour first time, then ￥100 per hour later.
 1. fix bug.  
 2. fix crash
 3. get rid of troubles 
